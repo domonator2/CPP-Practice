@@ -1,0 +1,38 @@
+# Compiled binaries
+*.out
+*.o
+*.exe
+
+# macOS debug symbols
+*.dSYM/
+
+# Simulation output
+*.csv
+*.txt
+datfil.txt
+trajectory.csv
+
+# macOS
+.DS_Store
+
+# Build directories
+build/
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# Archives
+*.zip
+
+# MATLAB autosave
+*.asv
+
+# Third-party code
+SamanthaCode/
+
+# Compiled executables (no extension)
+Simple2DOFProNav
+Simple2DOFSimulation
+kalman_projectile
